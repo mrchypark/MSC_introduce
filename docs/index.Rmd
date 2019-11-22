@@ -1,0 +1,67 @@
+---
+title: "R코홀릭을 넘어 엔지니어로"
+author: "박찬엽"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "ninjutsu", "custom.css"]
+    lib_dir: libs
+    includes:
+      in_header: google_analytics.html
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+layout: true
+
+background-image: url(https://user-images.githubusercontent.com/6179259/60290723-50002480-9954-11e9-96fe-3fbd4d7d11d9.png)
+background-size: cover
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+---
+
+class: center, middle, title-slide
+
+## R코홀릭을 넘어 엔지니어로
+
+### <https://mrchypark.github.io/MSC_introduce/>
+
+#### [[의견 및 오류 신고]](https://github.com/mrchypark/MSC_introduce/issues)
+
+### 박찬엽
+
+### .small[2019년 11월 23일]
+
+---
+
+.left-column[
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  ![](https://avatars2.githubusercontent.com/u/6179259)
+]
+.right-column[
+### 박찬엽     
+- .yellow[(현)]SKT AICenter DevOps Engineer
+  * 챗봇 개발 및 서빙, 운영, 자동화
+- .gray[(전)]코빗 재무팀 데이터 담당자
+  * 재무DB 구축/관리 및 자동화
+- .gray[(전)]서울도시가스 선행연구팀 연구원
+  * 챗봇 엔진 개발 및 서버 구축
+- .gray[(전)]2017년 패스트 캠퍼스 데이터 분석 R 강의
+  * [데이터 분석을 위한 중급 R 프로그래밍](http://www.fastcampus.co.kr/data_camp_dabrp/)
+- N사 뉴스 크롤러 [N2H4](https://github.com/forkonlp/N2H4), D사 뉴스 크롤러 [DNH4](https://github.com/forkonlp/DNH4) 관리자
+  * [ForkonLP](https://forkonlp.github.io/) 프로젝트    
+- .blue[(졸)]연세대학교 정보대학원 비즈니스 데이터 분석 전공(MIS)    
+- .blue[(수료)]coursera Data Science Specialization
+- .blue[(졸)]홍익대학교 기계 시스템 디자인 공학과    
+  * GE URP 프로그램 참여
+]
